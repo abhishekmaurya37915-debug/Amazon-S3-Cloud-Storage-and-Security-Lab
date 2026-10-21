@@ -22,18 +22,18 @@ Requirements
 - Internet connection
 - Sample test files
 
-Lab Setup
+# Lab Setup
 
-# 1. Sign in to the AWS Management Console.
+# 1. Sign in to the AWS Management Console.(you Login your create Email user Account with root user)
 
 <img width="1911" height="870" alt="image" src="https://github.com/user-attachments/assets/760bbff8-a5b0-4139-b22c-8e00a0f543d5" />
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/819f5e45-0f72-4113-a93a-e32139cba6c1" />
 
-# 2. Search for Amazon S3.
+# 2. Search for Amazon S3 in Amazon Search bar .
 
 <img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/97c714ce-b40c-4e46-992c-cf9a3e5acdd2" />
 
-After click S3
+1.After click S3
 <img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/2ff274f9-a877-41b1-9939-e7b6797c068f" />
 
 # 3. Select Create bucket.
