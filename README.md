@@ -24,7 +24,8 @@ Requirements
 
 # Lab Setup
 
-# 1. Sign in to the AWS Management Console.(you Login your create Email user Account with root user)
+# 1. Sign in to the AWS Management Console.
+(you Login your create Email user Account with root user and enter your email id and click on next)
 
 <img width="1911" height="870" alt="image" src="https://github.com/user-attachments/assets/760bbff8-a5b0-4139-b22c-8e00a0f543d5" />
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/819f5e45-0f72-4113-a93a-e32139cba6c1" />
